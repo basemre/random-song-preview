@@ -11,4 +11,4 @@ requests == 2.21.0
 selenium == 3.141.0
 
 # beatport.py: 4,5
-spotipy == 2.4.4
+spotipy == 2.22.1
