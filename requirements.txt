@@ -5,7 +5,7 @@
 beautifulsoup4 == 4.7.1
 
 # beatport.py: 1
-requests == 2.21.0
+requests == 2.31.0
 
 # beatport.py: 6
 selenium == 3.141.0
